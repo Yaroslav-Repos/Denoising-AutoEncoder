@@ -2,7 +2,7 @@
 
 Frameworks used: kivy, tensorflow/keras. Python version 3.7.
 
-Input: 32×32×3
+Input: 32×32×3 (CIFAR-10 dataset)
 
 Encoder:<br>
   Conv2D 32 → BatchNorm → Conv2D 32 → BatchNorm → Dropout<br>
